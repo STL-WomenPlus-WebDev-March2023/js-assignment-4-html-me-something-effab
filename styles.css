@@ -1,1 +1,32 @@
 /* Write your CSS here! */
+body {
+    width: 90%;
+    margin: 8px;
+    background-color: thistle;
+    font-size: 110%
+}
+
+footer {
+    font-size: 80%;
+    text-align: center;
+}
+
+#Crystal {
+    color:darkslategrey;
+    font-size: 135%;
+    padding: 10px;
+    text-align:center;
+}
+
+#mainHeading {
+    font-size: 200%;
+    text-align: center;
+}
+
+h2{
+    font-size: 155%;
+}
+
+p {
+    color:rgb(47, 3, 3)
+}
