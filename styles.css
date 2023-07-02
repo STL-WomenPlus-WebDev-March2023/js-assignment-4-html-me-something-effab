@@ -11,6 +11,10 @@ footer {
     text-align: center;
 }
 
+.funParagraph{
+    color:green;
+}
+
 #Crystal {
     color:darkslategrey;
     font-size: 135%;
@@ -28,10 +32,3 @@ h2{
     font-size: 155%;
 }
 
-p {
-    color:rgb(47, 3, 3)
-}
-
-#funParagraph{
-    color:green;
-}
