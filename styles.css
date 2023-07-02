@@ -21,6 +21,7 @@ footer {
 #mainHeading {
     font-size: 200%;
     text-align: center;
+    color: red;
 }
 
 h2{
@@ -29,4 +30,8 @@ h2{
 
 p {
     color:rgb(47, 3, 3)
+}
+
+#funParagraph{
+    color:green;
 }
